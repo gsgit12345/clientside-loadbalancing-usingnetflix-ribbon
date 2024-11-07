@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/spring-cloud-client-side-load-balancing-with-ribbon/
